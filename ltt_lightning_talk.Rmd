@@ -1,0 +1,29 @@
+---
+title: "The One-Off Workshop"
+author: "Clay Ford"
+date: "Spring 2022"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Classes at UVA
+
+>- Instructors get to know students, see them 2-3 times/week for 16 weeks.
+>- There is time for repeated assessments.
+>- Instructors get a second chance to review material, catch up on missed material, redeem themselves after an "off day".
+>- There is college credit at stake. The class costs money. Which means...
+>- The instructor has authority and students are invested.
+>- Hard to drop out after a couple of weeks.
+
+## One-off Library Workshop at UVA
+
+>- See students once for 60 - 90 minutes; don’t get to know them
+>- There are no repeated assessments.
+>- There is no second chance to catch up on missed materials or make adjustments.
+>- There is no college credit at stake. The class is free. Which means...
+>- The teacher-student dynamic isn’t there. The “students” are sometimes faculty, staff, colleagues or community members.
+>- People can just leave, drop off Zoom, or not show at all.
+
