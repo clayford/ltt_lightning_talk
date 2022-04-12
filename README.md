@@ -1,1 +1,3 @@
-# ltt_lightning_talk
+# Let's Talk Teaching Lightning Talk
+
+Repo for presentation slide deck.
