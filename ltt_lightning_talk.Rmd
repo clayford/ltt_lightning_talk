@@ -41,9 +41,9 @@ knitr::opts_chunk$set(echo = FALSE)
 >- If teaching something centered around software, make sure you're using the same version as your students. 
 >- Avoid using Zoom breakout rooms or enforcing group work.
 >- Consider doing exercises together as a class instead of pausing for independent exercises. 
->- Create a pre-workshop checklist and use it. [Here's my checklist](URL)
+>- Create a pre-workshop checklist and use it. [Here's my checklist](https://github.com/clayford/workshop_checklist/blob/main/README.md)
 >- Pause and breathe. Sprinkle in some silence. 
->- Start a little late if you want, but end on time.
+>- Start a little late if you want, but end on time. And it's OK to end early.
 
 ## Done!
 
