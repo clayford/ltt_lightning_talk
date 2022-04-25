@@ -1,5 +1,5 @@
 ---
-title: "Where I'm at with the<br>One-Off Workshop"
+title: "How I make the most<br>of a One-Off Workshop"
 author: "Clay Ford"
 date: "Spring 2022"
 output: ioslides_presentation
