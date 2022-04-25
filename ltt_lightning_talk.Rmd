@@ -9,7 +9,7 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Classes at UVA
+## Traditional Teaching at UVA
 
 >- Instructors can get to know students, see them 2-3 times/week for 16 weeks.
 >- There is time for repeated assessments.
@@ -27,22 +27,22 @@ knitr::opts_chunk$set(echo = FALSE)
 >- The teacher-student dynamic isn’t there. The “students” are sometimes faculty, staff, colleagues or community members.
 >- People can just leave, drop off Zoom, or not show at all.
 
-## Tips for Teaching a One-off Workshop
+## How I make the most of a one-off Workshop
 
->- Prepare and rehearse your introduction. Keep it short and get to the subject matter.
->- Don’t have everyone introduce themselves. 
->- Send a pre-workshop email to help students prepare for the workshop (eg, install software, download data, create account) 
->- Check for late registrations the day of workshop. Send them your pre-workshop email. 
+>- Prepare and rehearse my introduction. Keep it short and get to the subject matter.
+>- don’t have everyone introduce themselves. 
+>- send a pre-workshop email to help students prepare for the workshop (eg, install software, download data, create account) 
+>- check for late registrations the day of workshop and send them my pre-workshop email. 
 >- Create self-contained workshop materials suitable for self-study and make them publicly available.
 
-## More tips
+## More things I do
 
 >- Don't wing it. Have a script or good notes. Rehearse. 
->- If teaching something centered around software, make sure you're using the same version as your students. 
->- You can use Zoom breakout rooms, but should you? Hot take: I don't think so.
->- Consider doing exercises together as a class instead of pausing for independent exercises. 
->- Create a pre-workshop checklist and use it. [Here's my checklist](https://github.com/clayford/workshop_checklist/blob/main/README.md)
->- Start a little late if you want, but end on time. And it's OK to end early.
+>- When teaching software, I try to make sure I have the same version as the newest students. 
+>- Hot take: I'm not a fan of Zoom breakout rooms.
+>- Started doing exercises together as a class instead of pausing for independent work. 
+>- Use a pre-workshop checklist. [Here's the latest version](https://github.com/clayford/workshop_checklist/blob/main/README.md)
+>- I'm not afraid to start a little late, but I end on time or early.
 
 ## Done!
 
