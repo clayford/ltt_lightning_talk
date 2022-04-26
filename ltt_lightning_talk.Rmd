@@ -30,9 +30,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## How I make the most of a one-off Workshop
 
 >- Prepare and rehearse my introduction. Keep it short and get to the subject matter.
->- don’t have everyone introduce themselves. 
->- send a pre-workshop email to help students prepare for the workshop (eg, install software, download data, create account) 
->- check for late registrations the day of workshop and send them my pre-workshop email. 
+>- Don’t have everyone introduce themselves. 
+>- Send a pre-workshop email to help students prepare for the workshop (eg, install software, download data, create account) 
+>- Check for late registrations the day of workshop and send them my pre-workshop email. 
 >- Create self-contained workshop materials suitable for self-study and make them publicly available.
 
 ## More things I do
