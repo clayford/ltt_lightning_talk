@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 >- See students once for 60 - 90 minutes; don’t get to know them.
 >- There are no repeated assessments.
->- There is no second chance to catch up on missed materials or make adjustments.
+>- There is no second chance to catch up on missed materials, or make adjustments, or make up for lost time because of a technical difficulty.
 >- There is no college credit at stake. The class is free. Which means...
 >- The teacher-student dynamic isn’t there. The “students” are sometimes faculty, staff, colleagues or community members.
 >- People can just leave, drop off Zoom, or not show at all.
@@ -42,7 +42,6 @@ knitr::opts_chunk$set(echo = FALSE)
 >- Hot take: I'm not a fan of Zoom breakout rooms.
 >- Started doing exercises together as a class instead of pausing for independent work. 
 >- Use a pre-workshop checklist. [Here's the latest version](https://github.com/clayford/workshop_checklist/blob/main/README.md)
->- I'm not afraid to start a little late, but I end on time or early.
 
 ## Done!
 
